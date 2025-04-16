@@ -34,11 +34,10 @@ Build a fully functional survey form that collects user input through various fo
 - HTML5
 - CSS3
 
-## 🚀 How to Run
+## 🚀 Live Demo
 
-1. Clone or download the repository.
-2. Open `index.html` in any modern browser.
-3. Fill out the form and hit **Submit**!
+🔗 [Click here to view the live project] (https://atharvaprojects.github.io/Survey-Form/)
+
 
 ## 👨‍💻 Author
 
